@@ -3,3 +3,24 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
+.font_open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+/*Main Part*/
+.nav_menu{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+/* Secondary Part */
+
+header{
+  display: flex;
+  justify-content: space-around;
+}
